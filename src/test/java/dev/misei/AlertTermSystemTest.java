@@ -2,8 +2,6 @@ package dev.misei;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 
 //TODO: Skipping unit test, integration test, json test, component test, containerized test, arch test, load test and mutant test.
 //TODO: Adding only real system test.
@@ -23,6 +21,5 @@ class AlertTermSystemTest {
     public void givenAlerts_whenQueryTerms_andAnotherLanguage_thenTranslate() {
 
     }
-
 
 }
