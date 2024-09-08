@@ -10,6 +10,8 @@ import java.util.List;
 //TODO: I would process it in a AI to understand the context and then abstract the language matching issue
 //TODO: I would refactor the entire typing... Language and type as enum, date as a date or real timestamp.
 
+//TODO: Assuming no duplicates
+
 //Asume all alerts are unique
 //Usage of records as immutable approach
 //Skipping advance validators and robust exception
